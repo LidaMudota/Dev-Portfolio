@@ -1,0 +1,8 @@
+node_modules/
+*.log
+*.backup
+*.tmp
+.idea/
+.vscode/
+.DS_Store
+index.php
